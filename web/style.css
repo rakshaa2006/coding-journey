@@ -68,3 +68,9 @@ a{
 a:hover{
   text-decoration: underline;
 }
+
+/*-----Container------*/
+body{
+  max-width: 750px;
+  margin: 0 auto;
+}
